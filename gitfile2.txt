@@ -1,1 +1,1 @@
-Some things have been changed in the master brach now
+With merge conflict occuring, I have now made modification to suit what i want between master and newfeature
