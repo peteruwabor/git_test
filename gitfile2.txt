@@ -1,3 +1,4 @@
-This is  a list of devops tools:
+This is a bad list of devops tools:
 1. Maven
 2.Sonarqube
+3. Nexus
