@@ -1,4 +1,1 @@
-This is a bad list of devops tools:
-1. Maven
-2.Sonarqube
-3. Nexus
+Some things have been changed in the master brach now
